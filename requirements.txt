@@ -111,5 +111,4 @@ webencodings==0.5.1
 widgetsnbextension==3.6.0
 yarg==0.1.9
 zipp==3.8.0
-pypiwin32==223
-pywin32==223
+pywin32==301; platform_system == "Windows"
